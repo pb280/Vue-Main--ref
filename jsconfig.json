@@ -1,0 +1,5 @@
+{
+  "vueCompilerOptions": {
+    "optionsWrapper": ["(await import('vue')).defineComponent(", ")", true]
+  }
+}
